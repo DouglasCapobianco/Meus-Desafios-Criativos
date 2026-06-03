@@ -91,23 +91,33 @@ Cliente 7 – “Apesar da espera, consegui resolver o que precisava.” → Sen
 
 Cliente 8 – “Atendimento rápido pela manhã, muito satisfeito.” → Sentimento: Positivo
 
+
  
 -Insights e Recomendações
 Horários de pico concentram insatisfação e notas baixas.
 
+
 Principais reclamações: demora, filas longas, dificuldade em concluir serviços.
+
 
 Elogios: cordialidade e eficiência fora dos horários críticos.
 
+
 Oportunidades de melhoria:
+
 
 Reforçar equipe nos horários de maior movimento.
 
+
 Implementar triagem para serviços rápidos.
+
 
 Incentivar uso de canais digitais.
 
+
 Comunicar tempos médios de espera para transparência.
+
+
 
 
 Aprendizado
