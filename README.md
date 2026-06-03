@@ -120,5 +120,6 @@ Comunicar tempos médios de espera para transparência.
 
 
 
-Aprendizado
+Aprendizado:
+
 Durante os testes foi observado que alguns modelos de IA podem gerar exemplos fictícios quando os dados reais não são fornecidos. Por isso, o prompt enfatiza a necessidade de utilizar apenas informações presentes na base analisada.
